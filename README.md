@@ -7,3 +7,6 @@ The CSS has been cleaned up by grouping like tags with the same styling.
 The accessibility has been updated by adding alt attributes to every img.
 Heading attributes have been organized in sequential order.
 The title name has been changed to give more description and relevance to the webpage. 
+
+
+https://hdarden.github.io/02-hw-code-refactor/
